@@ -38,4 +38,5 @@ form.addEventListener('submit', evt => {
   }
   evt.target.reset();
   localStorage.removeItem(LOCAL_STORAGE_FORM_KEY);
+  formData = {};
 });
