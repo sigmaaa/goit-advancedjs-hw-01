@@ -12,4 +12,4 @@ import{S as a}from"./vendor-CgTBfC_f.js";const t=[{preview:"https://cdn.pixabay.
             </a>
           </li>
           `).join(""));new a(".gallery-link");
-//# sourceMappingURL=1-gallery-CHYr-gLI.js.map
+//# sourceMappingURL=1-gallery-Y7LLPMTo.js.map
